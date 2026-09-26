@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610" role="img" aria-label="Professional developer profile banner">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFFFFF"/><stop offset=".55" stop-color="#0F172A"/><stop offset="1" stop-color="#EEF6FF"/></linearGradient>
+  <linearGradient id="accent" x1="0" x2="1"><stop stop-color="#2563EB"/><stop offset=".5" stop-color="#06B6D4"/><stop offset="1" stop-color="#10B981"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#06B6D4" stop-opacity=".18"/><stop offset="1" stop-color="#06B6D4" stop-opacity="0"/></radialGradient>
+  <filter id="shadow"><feGaussianBlur stdDeviation="14"/></filter>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#475569" stroke-opacity=".055"/></pattern>
+  <style>
+    .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace}
+    .muted{fill:#475569}.white{fill:#0F172A}.cyan{fill:#06B6D4}.violet{fill:#2563EB}.green{fill:#10B981}
+  </style>
+</defs>
+<rect x="5" y="5" width="1170" height="600" rx="24" fill="url(#bg)" stroke="#CBD5E1"/>
+<rect x="5" y="5" width="1170" height="600" rx="24" fill="url(#grid)"/>
+<circle cx="310" cy="260" r="290" fill="url(#glow)" filter="url(#shadow)"/>
+<rect x="22" y="22" width="1136" height="42" rx="12" fill="#FFFFFF" fill-opacity=".82" stroke="#CBD5E1"/>
+<circle cx="46" cy="43" r="6" fill="#EF4444"/><circle cx="66" cy="43" r="6" fill="#F59E0B"/><circle cx="86" cy="43" r="6" fill="#10B981"/>
+<text x="112" y="49" class="mono muted" font-size="14">developer@profile:~</text><text x="1030" y="49" class="mono green" font-size="13">[ ONLINE ]</text>
+<rect x="22" y="82" width="410" height="500" rx="20" fill="#FFFFFF" fill-opacity=".42" stroke="#CBD5E1"/>
+<text x="227" y="115" text-anchor="middle" class="mono cyan" font-size="12" letter-spacing="3">VISUAL.MAP</text>
+<text x="227" y="157" text-anchor="middle" class="mono muted" font-size="12">ASCII / ENGINEERING IDENTITY</text>
+<!-- Generic abstract ASCII portrait: replace with a personal portrait only when supplied/requested. -->
+<text x="227" y="210" text-anchor="middle" class="mono cyan" font-size="9" xml:space="preserve">     .·:+*#%%%%%#*+:·.     </text>
+<text x="227" y="222" text-anchor="middle" class="mono cyan" font-size="9" xml:space="preserve">   .:+*#%%%%%%%%%%#*+:.   </text>
+<text x="227" y="234" text-anchor="middle" class="mono violet" font-size="9" xml:space="preserve">  :+*#%%#*+****+#%%#*+:  </text>
+<text x="227" y="246" text-anchor="middle" class="mono violet" font-size="9" xml:space="preserve"> :+*#%%+:  ···  :+%%#*+: </text>
+<text x="227" y="258" text-anchor="middle" class="mono white" font-size="9" xml:space="preserve"> +*#%%%:  @  @   :%%%#*+ </text>
+<text x="227" y="270" text-anchor="middle" class="mono white" font-size="9" xml:space="preserve"> +*#%%%:   ·    :%%%#*+ </text>
+<text x="227" y="282" text-anchor="middle" class="mono muted" font-size="9" xml:space="preserve">  +*#%%%+  --  +%%%#*+  </text>
+<text x="227" y="294" text-anchor="middle" class="mono muted" font-size="9" xml:space="preserve">   :+*#%%%%%%%%%%#*+:   </text>
+<text x="227" y="306" text-anchor="middle" class="mono muted" font-size="9" xml:space="preserve">     :+*#%%%%%%#*+:     </text>
+<text x="227" y="318" text-anchor="middle" class="mono muted" font-size="9" xml:space="preserve">   .:+*#%%%%%%#*+:.     </text>
+<text x="227" y="330" text-anchor="middle" class="mono muted" font-size="9" xml:space="preserve"> .:+*#%%%%%%%%%%#*+:.   </text>
+<rect x="62" y="366" width="330" height="1" fill="url(#accent)" opacity=".7"/>
+<text x="70" y="402" class="mono violet" font-size="14">[ PROFILE / ENGINEERING ]</text>
+<text x="70" y="435" class="mono white" font-size="22">YOUR NAME</text>
+<text x="70" y="462" class="mono cyan" font-size="13">Your Professional Headline</text>
+<text x="70" y="507" class="mono muted" font-size="13">~/profile $ build --ship</text>
+<text x="70" y="538" class="mono muted" font-size="11">Replace placeholders with your supplied profile data.</text>
+<text x="70" y="555" class="mono muted" font-size="11">No unsupported claims are included.</text>
+<g opacity=".75"><path d="M40 570H1140" stroke="#06B6D4" stroke-opacity=".15"><animate attributeName="stroke-opacity" values=".08;.28;.08" dur="4s" repeatCount="indefinite"/></path></g>
+<rect x="452" y="82" width="706" height="500" rx="20" fill="#FFFFFF" fill-opacity=".5" stroke="#CBD5E1"/>
+<text x="484" y="122" class="mono cyan" font-size="13" letter-spacing="2">SYSTEM.INFO</text>
+<text x="484" y="151" class="mono muted" font-size="12">user@developer:~$ ./profile.sh</text>
+<text x="484" y="193" class="mono muted" font-size="12">&gt; NAME</text><text x="650" y="193" class="mono white" font-size="13">YOUR NAME</text>
+<text x="484" y="223" class="mono muted" font-size="12">&gt; ROLE</text><text x="650" y="223" class="mono white" font-size="13">YOUR ROLE</text>
+<text x="484" y="253" class="mono muted" font-size="12">&gt; FOCUS</text><text x="650" y="253" class="mono white" font-size="13">YOUR CORE FOCUS</text>
+<text x="484" y="283" class="mono muted" font-size="12">&gt; STACK</text><text x="650" y="283" class="mono white" font-size="13">YOUR TECHNOLOGIES</text>
+<text x="484" y="313" class="mono muted" font-size="12">&gt; BUILDING</text><text x="650" y="313" class="mono white" font-size="13">YOUR CURRENT PROJECT / AREA</text>
+<text x="484" y="355" class="mono cyan" font-size="11" letter-spacing="2">SELECTED SIGNALS</text>
+<rect x="484" y="374" width="190" height="30" rx="15" fill="#06B6D4" fill-opacity=".08" stroke="#06B6D4" stroke-opacity=".35"/><text x="579" y="394" text-anchor="middle" class="mono cyan" font-size="11">TECHNOLOGY 01</text>
+<rect x="686" y="374" width="190" height="30" rx="15" fill="#2563EB" fill-opacity=".08" stroke="#2563EB" stroke-opacity=".35"/><text x="781" y="394" text-anchor="middle" class="mono violet" font-size="11">TECHNOLOGY 02</text>
+<rect x="888" y="374" width="190" height="30" rx="15" fill="#10B981" fill-opacity=".08" stroke="#10B981" stroke-opacity=".35"/><text x="983" y="394" text-anchor="middle" class="mono green" font-size="11">TECHNOLOGY 03</text>
+<text x="484" y="440" class="mono cyan" font-size="11" letter-spacing="2">SELECTED PROJECTS</text>
+<text x="484" y="468" class="mono white" font-size="12">Project One</text><text x="650" y="468" class="mono muted" font-size="11">Short factual description</text>
+<text x="484" y="494" class="mono white" font-size="12">Project Two</text><text x="650" y="494" class="mono muted" font-size="11">Short factual description</text>
+<text x="484" y="530" class="mono muted" font-size="11">GitHub · LinkedIn · Portfolio · Contact</text>
+<rect x="484" y="548" width="640" height="2" fill="url(#accent)" opacity=".45"><animate attributeName="x" values="484;520;484" dur="5s" repeatCount="indefinite"/></rect>
+</svg>
