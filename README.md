@@ -29,7 +29,7 @@ Add only roles and organizations that you explicitly provide.
 
 ## Connect
 
-- GitHub: https://github.com/YOUR_USERNAME
+- GitHub: https://github.com/Siddtiwari25
 - LinkedIn: YOUR_LINKEDIN_URL
 - Portfolio: YOUR_PORTFOLIO_URL
 
