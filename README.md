@@ -4,7 +4,7 @@
   <img src="./dark.svg" alt="Professional developer profile banner">
 </picture>
 
-# YOUR NAME
+# SIDDHARTH TIWARI
 
 > Your professional headline — replace this with a concise, factual description of your work.
 
@@ -30,7 +30,6 @@ Add only roles and organizations that you explicitly provide.
 ## Connect
 
 - GitHub: https://github.com/Siddtiwari25
-- LinkedIn: YOUR_LINKEDIN_URL
-- Portfolio: YOUR_PORTFOLIO_URL
+- LinkedIn: https://www.linkedin.com/in/siddharth-tiwari-aiml25/
+- Portfolio: https://siddharth-tiwari-github-io.vercel.app/
 
-<!-- Replace placeholders with your actual profile information. Do not add claims, metrics, technologies, projects, or links that you cannot substantiate. -->
